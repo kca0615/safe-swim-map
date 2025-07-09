@@ -23,11 +23,15 @@ const SafeSwimMap: React.FC<SafeSwimMapProps> = ({ filters }) => {
       .then((data) => {
         const filteredFeatures = data.features.filter((feature: any) => {
           const matchesRegion =
-            !filters.region || filters.region.includes(feature.properties.region);
+            !filters.region || filters.region.includes(feature.properties.region || "");
           const matchesStatus =
-            !filters.status || filters.status.includes(feature.properties.status);
+            !filters.status || filters.status.includes(feature.properties.status || "");
           return matchesRegion && matchesStatus;
         });
+
+        if (filteredFeatures.length === 0) {
+          console.warn("No features match the applied filters.");
+        }
 
         setGeojsonData({
           ...data,
