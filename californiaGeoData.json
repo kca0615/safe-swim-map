@@ -1,0 +1,1705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10662,
+          33.01911
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-072_San Dieguito River",
+        "status": "unsafe",
+        "ph": 2.577,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1063,
+          33.01896
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-074_San Dieguito River",
+        "status": "safe",
+        "ph": 19.6999999999999,
+        "sampleDate": "2024-06-17T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1063,
+          33.01896
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-074_San Dieguito River",
+        "status": "safe",
+        "ph": 1483,
+        "sampleDate": "2024-06-17T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1063,
+          33.01896
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-074_San Dieguito River",
+        "status": "unsafe",
+        "ph": 4.74,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11605,
+          33.00303
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-080_San Dieguito River",
+        "status": "unsafe",
+        "ph": 0.187,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.053285,
+          33.140734
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_115_Carlsbad",
+        "status": "safe",
+        "ph": 8.24,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.06771,
+          33.13171
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_121_Carlsbad",
+        "status": "unsafe",
+        "ph": 2.038,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.06771,
+          33.13171
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_121_Carlsbad",
+        "status": "safe",
+        "ph": 20.952,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.06771,
+          33.13171
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_121_Carlsbad",
+        "status": "safe",
+        "ph": 21.063,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.08159,
+          33.12683
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_128_Carlsbad",
+        "status": "unsafe",
+        "ph": 1.999,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.08159,
+          33.12683
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_128_Carlsbad",
+        "status": "unsafe",
+        "ph": 0.33,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.09524,
+          33.11942
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_134_Carlsbad",
+        "status": "safe",
+        "ph": 15.7,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.09524,
+          33.11942
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_134_Carlsbad",
+        "status": "safe",
+        "ph": 26.218,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071356,
+          33.06951
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_102_San Dieguito River",
+        "status": "safe",
+        "ph": 22.7,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.07079,
+          33.09751
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_110_San Dieguito River",
+        "status": "safe",
+        "ph": 7.12,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0711,
+          33.08745
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_111_San Dieguito River",
+        "status": "safe",
+        "ph": 7.35,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0711,
+          33.08745
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_111_San Dieguito River",
+        "status": "safe",
+        "ph": 7.46,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.21808,
+          32.96798
+        ]
+      },
+      "properties": {
+        "name": "GZCSDG",
+        "status": "safe",
+        "ph": 10.85,
+        "sampleDate": "2024-03-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.865788,
+          33.047227
+        ]
+      },
+      "properties": {
+        "name": "Outfall @ 7th Street",
+        "status": "safe",
+        "ph": 1864,
+        "sampleDate": "2024-06-17T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117,
+          33
+        ]
+      },
+      "properties": {
+        "name": "Poway_140_San Dieguito River",
+        "status": "unsafe",
+        "ph": 2.02,
+        "sampleDate": "2024-07-29T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.05911,
+          32.94177
+        ]
+      },
+      "properties": {
+        "name": "Poway_282-1749, 3 (DW Site 2)_Penasquitos",
+        "status": "caution",
+        "ph": 5.6,
+        "sampleDate": "2024-07-25T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.05911,
+          32.94177
+        ]
+      },
+      "properties": {
+        "name": "Poway_282-1749, 3 (DW Site 2)_Penasquitos",
+        "status": "unsafe",
+        "ph": 0,
+        "sampleDate": "2024-07-25T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04338,
+          32.94755
+        ]
+      },
+      "properties": {
+        "name": "Poway_282-1755, 1_Penasquitos",
+        "status": "unsafe",
+        "ph": 1.96,
+        "sampleDate": "2024-08-01T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Poway_294-1749, 2_Penasquitos",
+        "status": "unsafe",
+        "ph": 2.48,
+        "sampleDate": "2024-07-31T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.05895,
+          32.98552
+        ]
+      },
+      "properties": {
+        "name": "Poway_298-1749, 2_Penasquitos",
+        "status": "unsafe",
+        "ph": 2.59,
+        "sampleDate": "2024-07-31T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.05895,
+          32.98552
+        ]
+      },
+      "properties": {
+        "name": "Poway_298-1749, 2_Penasquitos",
+        "status": "unsafe",
+        "ph": 3.18,
+        "sampleDate": "2024-07-31T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0292,
+          33.00266
+        ]
+      },
+      "properties": {
+        "name": "Poway_302-1761, 1A_San Dieguito River",
+        "status": "safe",
+        "ph": 7.6,
+        "sampleDate": "2024-07-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0292,
+          33.00266
+        ]
+      },
+      "properties": {
+        "name": "Poway_302-1761, 1A_San Dieguito River",
+        "status": "unsafe",
+        "ph": 2.34,
+        "sampleDate": "2024-07-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04587,
+          33.01373
+        ]
+      },
+      "properties": {
+        "name": "Poway_306-1755, 1(W)_San Dieguito River",
+        "status": "safe",
+        "ph": 8.31,
+        "sampleDate": "2024-07-22T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04587,
+          33.01373
+        ]
+      },
+      "properties": {
+        "name": "Poway_306-1755, 1(W)_San Dieguito River",
+        "status": "safe",
+        "ph": 8.36,
+        "sampleDate": "2024-07-29T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.24773,
+          32.97831
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW0033_San Dieguito River",
+        "status": "safe",
+        "ph": 8.25,
+        "sampleDate": "2024-03-11T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.24773,
+          32.97831
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW0033_San Dieguito River",
+        "status": "unsafe",
+        "ph": 1.547,
+        "sampleDate": "2024-03-11T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10662,
+          33.01911
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-072_San Dieguito River",
+        "status": "safe",
+        "ph": 1607,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.214836,
+          32.966445
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW0284-UP1_San Dieguito River",
+        "status": "unsafe",
+        "ph": 1.294,
+        "sampleDate": "2024-03-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.214836,
+          32.966445
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW0284-UP1_San Dieguito River",
+        "status": "safe",
+        "ph": 14,
+        "sampleDate": "2024-03-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11605,
+          33.00303
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-080_San Dieguito River",
+        "status": "safe",
+        "ph": 2324,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.07718,
+          33.01969
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW1118-UP1_San Dieguito River",
+        "status": "safe",
+        "ph": 8.5,
+        "sampleDate": "2024-07-16T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.189874,
+          32.9674
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW1184-UP1_San Dieguito River",
+        "status": "unsafe",
+        "ph": 1.69,
+        "sampleDate": "2024-07-08T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.236662,
+          32.967381
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW1201-UP1_San Dieguito",
+        "status": "safe",
+        "ph": 8.46,
+        "sampleDate": "2024-04-25T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.266858,
+          32.9725752142
+        ]
+      },
+      "properties": {
+        "name": "Del Mar_65-28ST-M_San Diegito River",
+        "status": "caution",
+        "ph": 5.91,
+        "sampleDate": "2024-07-18T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.266858,
+          32.9725752142
+        ]
+      },
+      "properties": {
+        "name": "Del Mar_65-28ST-M_San Diegito River",
+        "status": "safe",
+        "ph": 7.97,
+        "sampleDate": "2024-07-18T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.236662,
+          32.967381
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW1201-UP1_San Dieguito",
+        "status": "safe",
+        "ph": 18.8,
+        "sampleDate": "2024-04-25T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071395,
+          33.027537
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW1275_San Dieguito",
+        "status": "safe",
+        "ph": 20.8,
+        "sampleDate": "2024-07-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.266858,
+          32.9725752142
+        ]
+      },
+      "properties": {
+        "name": "Del Mar_65-28ST-M_San Diegito River",
+        "status": "unsafe",
+        "ph": 1.22,
+        "sampleDate": "2024-08-22T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.084851,
+          33.030522
+        ]
+      },
+      "properties": {
+        "name": "DW0317-UP1",
+        "status": "unsafe",
+        "ph": 0.01,
+        "sampleDate": "2024-04-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.205596,
+          32.999082
+        ]
+      },
+      "properties": {
+        "name": "San Dieguito River MLS",
+        "status": "safe",
+        "ph": 7.79,
+        "sampleDate": "2024-06-10T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.205596,
+          32.999082
+        ]
+      },
+      "properties": {
+        "name": "San Dieguito River MLS",
+        "status": "unsafe",
+        "ph": 3.25,
+        "sampleDate": "2024-06-10T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0203773,
+          33.1427089
+        ]
+      },
+      "properties": {
+        "name": "Escondido_EGR_201_San Dieguito River",
+        "status": "safe",
+        "ph": 8.03,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10662,
+          33.01911
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-072_San Dieguito River",
+        "status": "unsafe",
+        "ph": 0.86,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.053285,
+          33.140734
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_115_Carlsbad",
+        "status": "unsafe",
+        "ph": 1.808,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.053285,
+          33.140734
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_115_Carlsbad",
+        "status": "safe",
+        "ph": 18.988,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.053285,
+          33.140734
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_115_Carlsbad",
+        "status": "safe",
+        "ph": 8.85,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.247888,
+          32.980072
+        ]
+      },
+      "properties": {
+        "name": "SD_DW0033-UP1",
+        "status": "safe",
+        "ph": 28.78,
+        "sampleDate": "2024-03-11T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11998822,
+          33.01976518
+        ]
+      },
+      "properties": {
+        "name": "SDG-274",
+        "status": "unsafe",
+        "ph": 3.538,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10662,
+          33.01911
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-072_San Dieguito River",
+        "status": "unsafe",
+        "ph": 4.12,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.10662,
+          33.01911
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-072_San Dieguito River",
+        "status": "safe",
+        "ph": 27.1999999999999,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1063,
+          33.01896
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-074_San Dieguito River",
+        "status": "safe",
+        "ph": 7.91,
+        "sampleDate": "2024-06-17T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1063,
+          33.01896
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-074_San Dieguito River",
+        "status": "caution",
+        "ph": 5.64,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.08159,
+          33.12683
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_128_Carlsbad",
+        "status": "safe",
+        "ph": 7.98,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1063,
+          33.01896
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-074_San Dieguito River",
+        "status": "unsafe",
+        "ph": 2.35,
+        "sampleDate": "2024-06-17T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1063,
+          33.01896
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-074_San Dieguito River",
+        "status": "safe",
+        "ph": 26.5,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11998822,
+          33.01976518
+        ]
+      },
+      "properties": {
+        "name": "SDG-274",
+        "status": "unsafe",
+        "ph": 2.64,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.246122,
+          33.006777
+        ]
+      },
+      "properties": {
+        "name": "Solana Beach_9_Carlsbad",
+        "status": "caution",
+        "ph": 6.1,
+        "sampleDate": "2024-08-21T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.246122,
+          33.006777
+        ]
+      },
+      "properties": {
+        "name": "Solana Beach_9_Carlsbad",
+        "status": "safe",
+        "ph": 23.05,
+        "sampleDate": "2024-08-21T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11605,
+          33.00303
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-080_San Dieguito River",
+        "status": "safe",
+        "ph": 28.6,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.09524,
+          33.11942
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_134_Carlsbad",
+        "status": "unsafe",
+        "ph": 2.106,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071356,
+          33.06951
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_102_San Dieguito River",
+        "status": "unsafe",
+        "ph": 1.66,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11605,
+          33.00303
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-080_San Dieguito River",
+        "status": "safe",
+        "ph": 7.89,
+        "sampleDate": "2024-06-17T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11605,
+          33.00303
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-080_San Dieguito River",
+        "status": "safe",
+        "ph": 7.93,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11605,
+          33.00303
+        ]
+      },
+      "properties": {
+        "name": "County_MS4-SDG-080_San Dieguito River",
+        "status": "unsafe",
+        "ph": 1.12,
+        "sampleDate": "2024-09-09T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0711,
+          33.08745
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_111_San Dieguito River",
+        "status": "safe",
+        "ph": 23.5,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0614163,
+          32.9699591
+        ]
+      },
+      "properties": {
+        "name": "PO_290-1749, 4",
+        "status": "safe",
+        "ph": 25.4,
+        "sampleDate": "2024-07-24T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.084851,
+          33.030522
+        ]
+      },
+      "properties": {
+        "name": "DW0317-UP1",
+        "status": "safe",
+        "ph": 8.16,
+        "sampleDate": "2024-04-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04338,
+          32.94755
+        ]
+      },
+      "properties": {
+        "name": "Poway_282-1755, 1_Penasquitos",
+        "status": "safe",
+        "ph": 21.4,
+        "sampleDate": "2024-08-01T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04338,
+          32.94755
+        ]
+      },
+      "properties": {
+        "name": "Poway_282-1755, 1_Penasquitos",
+        "status": "safe",
+        "ph": 7.65,
+        "sampleDate": "2024-08-01T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.266858,
+          32.9725752142
+        ]
+      },
+      "properties": {
+        "name": "Del Mar_65-28ST-M_San Diegito River",
+        "status": "safe",
+        "ph": 52.53,
+        "sampleDate": "2024-07-18T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.084851,
+          33.030522
+        ]
+      },
+      "properties": {
+        "name": "DW0317-UP1",
+        "status": "safe",
+        "ph": 7.83,
+        "sampleDate": "2024-04-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.14488,
+          33.011455
+        ]
+      },
+      "properties": {
+        "name": "DW0333-UP1",
+        "status": "unsafe",
+        "ph": 0.01,
+        "sampleDate": "2024-03-11T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "name": "Poway_294-1749, 2_Penasquitos",
+        "status": "caution",
+        "ph": 6.6,
+        "sampleDate": "2024-07-24T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.09524,
+          33.11942
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_134_Carlsbad",
+        "status": "unsafe",
+        "ph": 0.48,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.09524,
+          33.11942
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_134_Carlsbad",
+        "status": "safe",
+        "ph": 8.32,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.09524,
+          33.11942
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_134_Carlsbad",
+        "status": "safe",
+        "ph": 27.415,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.14488,
+          33.011455
+        ]
+      },
+      "properties": {
+        "name": "DW0333-UP1",
+        "status": "safe",
+        "ph": 9.04,
+        "sampleDate": "2024-03-11T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.14488,
+          33.011455
+        ]
+      },
+      "properties": {
+        "name": "DW0333-UP1",
+        "status": "safe",
+        "ph": 19.7,
+        "sampleDate": "2024-06-10T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0203773,
+          33.1427089
+        ]
+      },
+      "properties": {
+        "name": "Escondido_EGR_201_San Dieguito River",
+        "status": "safe",
+        "ph": 8.37,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0203773,
+          33.1427089
+        ]
+      },
+      "properties": {
+        "name": "Escondido_EGR_201_San Dieguito River",
+        "status": "unsafe",
+        "ph": 4.07,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.04587,
+          33.01373
+        ]
+      },
+      "properties": {
+        "name": "Poway_306-1755, 1(W)_San Dieguito River",
+        "status": "unsafe",
+        "ph": 3.21,
+        "sampleDate": "2024-07-29T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071356,
+          33.06951
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_102_San Dieguito River",
+        "status": "safe",
+        "ph": 8.04,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.071356,
+          33.06951
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_102_San Dieguito River",
+        "status": "safe",
+        "ph": 7.79,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.03923,
+          33.14788
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_108_Carlsbad",
+        "status": "safe",
+        "ph": 8.45,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.03923,
+          33.14788
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_108_Carlsbad",
+        "status": "unsafe",
+        "ph": 1.65,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.214836,
+          32.966445
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW0284-UP1_San Dieguito River",
+        "status": "unsafe",
+        "ph": 3.16,
+        "sampleDate": "2024-06-04T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.07079,
+          33.09751
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_110_San Dieguito River",
+        "status": "safe",
+        "ph": 19.6,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0711,
+          33.08745
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_111_San Dieguito River",
+        "status": "unsafe",
+        "ph": 2.013,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.053285,
+          33.140734
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_115_Carlsbad",
+        "status": "safe",
+        "ph": 19.65,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.053285,
+          33.140734
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_115_Carlsbad",
+        "status": "unsafe",
+        "ph": 0.52,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0711,
+          33.08745
+        ]
+      },
+      "properties": {
+        "name": "Escondido_HDG_111_San Dieguito River",
+        "status": "safe",
+        "ph": 24.1,
+        "sampleDate": "2024-06-12T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.21808,
+          32.96798
+        ]
+      },
+      "properties": {
+        "name": "GZCSDG",
+        "status": "caution",
+        "ph": 6.9,
+        "sampleDate": "2024-06-04T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.060698,
+          33.018848
+        ]
+      },
+      "properties": {
+        "name": "San Diego_DW0689-UP2_San Dieguito",
+        "status": "safe",
+        "ph": 8.69,
+        "sampleDate": "2024-04-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.08159,
+          33.12683
+        ]
+      },
+      "properties": {
+        "name": "Escondido_ESC_128_Carlsbad",
+        "status": "safe",
+        "ph": 8,
+        "sampleDate": "2024-05-30T00:00:00",
+        "dataRetrievalDate": "2025-07-08"
+      }
+    }
+  ]
+}

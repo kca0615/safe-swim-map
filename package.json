@@ -1,0 +1,37 @@
+{
+  "name": "react-template",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.1",
+    "@types/geojson": "^7946.0.15",
+    "axios": "^1.7.9",
+    "mapbox-gl": "^3.9.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-map-gl": "^7.1.8"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/mapbox-gl": "^3.4.1",
+    "@types/node": "^16.18.124",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^3.1.0",
+    "typescript": "^5.7.3",
+    "vite": "^4.5.9",
+    "worker-loader": "^3.0.8"
+  },
+  "description": "This pad is running a React app that is served by Vite. Changes are automatically captured as you type them, and other people in the Pad can see them. You can add as many files to the project as you need, as well as any NPM packages.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Kristinne Abrenica <kristinne.abrenica@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs"
+}
