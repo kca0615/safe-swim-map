@@ -172,6 +172,19 @@ useEffect(() => {
   console.log("Filters applied:", filters);
   console.log("GeoJSON Data:", geojsonData);
 }, [filters, geojsonData]);
+useEffect(() => {
+  if (!geojsonData) {
+    console.error("GeoJSON data is null or undefined.");
+    return;
+  }
+
+  if (!geojsonData.features || geojsonData.features.length === 0) {
+    console.error("GeoJSON data has no features.");
+    return;
+  }
+
+  console.log("GeoJSON Data:", geojsonData);
+}, [geojsonData]);
 
   return (
     <div
