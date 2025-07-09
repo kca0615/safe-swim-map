@@ -39,7 +39,6 @@ const fetchAndConvertData = async () => {
                 : "unsafe",
             ph: parseFloat(record.Result),
             sampleDate: record.SampleDate || null,
-            dataRetrievalDate: new Date().toISOString().split('T')[0], // Current date when data was retrieved
           },
         })),
     };
