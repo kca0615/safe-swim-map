@@ -23,27 +23,29 @@ const LegendItem = styled("div")({
   alignItems: "center",
 });
 
-const Legend: React.FC = () => (
-  <LegendContainer>
-    <LegendItem>
-      <ColorIndicator color="green" />
-      <Typography variant="body2">
-        <strong>Safe</strong> - Water quality within acceptable limits for swimming
-      </Typography>
-    </LegendItem>
-    <LegendItem>
-      <ColorIndicator color="yellow" />
-      <Typography variant="body2">
-        <strong>Caution</strong> - Potential concerns with water quality.
-      </Typography>
-    </LegendItem>
-    <LegendItem>
-      <ColorIndicator color="red" />
-      <Typography variant="body2">
-        <strong>Unsafe</strong> - Swimming not recommended.
-      </Typography>
-    </LegendItem>
-  </LegendContainer>
-);
+function Legend() {
+  return (
+    <LegendContainer>
+      <LegendItem>
+        <ColorIndicator color="green" />
+        <Typography variant="body2">
+          <strong>Safe</strong> - Water quality within acceptable limits for swimming
+        </Typography>
+      </LegendItem>
+      <LegendItem>
+        <ColorIndicator color="yellow" />
+        <Typography variant="body2">
+          <strong>Caution</strong> - Potential concerns with water quality.
+        </Typography>
+      </LegendItem>
+      <LegendItem>
+        <ColorIndicator color="red" />
+        <Typography variant="body2">
+          <strong>Unsafe</strong> - Swimming not recommended.
+        </Typography>
+      </LegendItem>
+    </LegendContainer>
+  );
+}
 
 export default Legend;

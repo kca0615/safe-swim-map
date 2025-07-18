@@ -26,7 +26,7 @@ const ColorIndicator = styled("div")<{ color: string }>(({ color }) => ({
   marginRight: "8px",
 }));
 
-const Filter: React.FC<FilterProps> = ({ onFilterChange }) => {
+function Filter({ onFilterChange }: FilterProps) {
   // State to manage selected region filter
   const [regionFilters, setRegionFilters] = useState<string[]>([]);
   // State to manage selected status filters

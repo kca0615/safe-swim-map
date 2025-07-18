@@ -3,7 +3,7 @@ import SafeSwimMap from "./components/SafeSwimMap";
 import Filter from "./components/Filter";
 import { Box, Container, Paper } from "@mui/material";
 
-const App: React.FC = () => {
+function App() {
   const [filters, setFilters] = useState<{ region?: string[]; status?: string[] }>({});
 
   return (

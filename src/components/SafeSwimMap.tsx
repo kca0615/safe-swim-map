@@ -11,7 +11,7 @@ interface SafeSwimMapProps {
   };
 }
 
-const SafeSwimMap: React.FC<SafeSwimMapProps> = ({ filters }) => {
+function SafeSwimMap({ filters }: SafeSwimMapProps) {
   const mapContainerRef = useRef<HTMLDivElement>(null); // Reference for the map container
   const mapRef = useRef<mapboxgl.Map | null>(null); // Reference for the Mapbox map
   const [geojsonData, setGeojsonData] = useState<any>(null); // State to store GeoJSON data

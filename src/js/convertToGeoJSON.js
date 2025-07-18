@@ -39,6 +39,14 @@ const fetchAndConvertData = async () => {
                 : "unsafe",
             ph: parseFloat(record.Result),
             sampleDate: record.SampleDate || null,
+            // Add region property based on station name
+            region:
+              record.StationName &&
+              (/Los Angeles|\bLA\b/i.test(record.StationName)
+                ? "LA"
+                : /Orange|\bOC\b/i.test(record.StationName)
+                ? "OC"
+                : undefined),
           },
         })),
     };
